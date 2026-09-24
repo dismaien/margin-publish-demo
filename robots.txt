@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://dismaien.github.io/margin-publish-demo/sitemap.xml
+Sitemap: https://leona.garden/sitemap.xml
